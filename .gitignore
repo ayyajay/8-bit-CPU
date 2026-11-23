@@ -1,0 +1,25 @@
+# Specific unwanted files
+CPU Final (for sure).circ
+CPU FPGA Final.circ
+ED_Mini_Project_Report_8bit_CPU.pdf
+
+# Backup and draft files
+ED CPU.circ
+ED CPU - Copy.circ
+.circ
+
+# Archives
+*.zip
+CPU_Task_zip/
+
+# Word documents (keep the PDF)
+*.docx
+
+# Empty files
+module.v
+testbench.v
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
